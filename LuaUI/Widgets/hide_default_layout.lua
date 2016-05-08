@@ -6,7 +6,7 @@ function widget:GetInfo()
     date      = "in the future",
     license   = "GPL-v2",
     layer     = 1001,
-    enabled   = true,
+    enabled   = false,
   }
 end
 
